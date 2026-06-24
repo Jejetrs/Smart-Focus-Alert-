@@ -345,20 +345,15 @@ Please ensure compliance with local regulations regarding student monitoring sys
 
 For any use, collaboration, or deployment beyond personal/academic purposes, please contact me first before usage.
 
-### Contact Support
-- **Email Support**: its.jessicatheresia@gmail.com
-
 ## 👥 Authors & Acknowledgments
 
-- **Developer**: Jessica Theresia
+- **Developer**: Alya Fatimah, Felix Rafael, Jessica Theresia, Yoga Permana Putra
 - **Institution**: Gunadarma University
 
 ### Special Thanks
 - MediaPipe team for computer vision framework
 - OpenCV community for image processing tools
 - Railway for cloud hosting platform
-
-## 🔄 Changelog
 
 ### v1.0.0 (Current)
 - ✅ Real-time focus monitoring
